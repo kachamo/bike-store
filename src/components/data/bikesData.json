@@ -1,0 +1,30 @@
+[  
+    {    
+        "id": "bike001",    
+        "size": "M",    
+        "brakes": "Disc",    
+        "shiftLevels": "24",    
+        "crankset": "3x",    
+        "chain": "KMC X9",    
+        "bars": "Alloy",    
+        "wheels": "29",    
+        "tyres": "Maxxis"  
+
+    },  
+    {    
+        "id": "bike002",    
+        "size": "L",    
+        "brakes": "Rim",    
+        "shiftLevels": "21",    
+        "crankset": "2x",    
+        "chain": "Shimano HG-53",    
+        "bars": "Carbon",    
+        "wheels": "26",    
+        "tyres": "Schwalbe",    
+        "images": 
+        { 
+            "wheel": "bike002-wheel.jpg",      
+            "gear": "bike002-gear.jpg",      
+            "tyre": "bike002-tyre.jpg"    
+            }  }
+]

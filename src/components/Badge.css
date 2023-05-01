@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+  
+.badge{
+    font-family: 'Montserrat', sans-serif;
+    height: 20px;
+    padding: 5px 15px;
+    text-align: center;
+    background-color: #da0024;
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 300;
+    position: absolute;
+    right: 23%;
+    top: 15%;
+}
